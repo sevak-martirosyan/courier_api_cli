@@ -1,0 +1,36 @@
+{
+   "senderAddress":{
+      "name":"Test Guy",
+      "companyName":"Test Company",
+      "line1":"425 Attwell Dr",
+      "line2":"",
+      "city":"Etobicoke",
+      "province":"ON",
+      "postalCode":"M9W 5C4",
+      "country":"CA",
+      "email":"testguy@example.com",
+      "phone":"250-416-8593"
+   },
+   "recipientAddress":{
+      "name":"John Doe",
+      "companyName":"Doe LTD",
+      "line1":"Blue Street 26b",
+      "line2":"",
+      "city":"Etobicoke",
+      "province":"ON",
+      "postalCode":"M5H 2A4",
+      "country":"CA",
+      "email":"jdoe@example.com",
+      "phone":"514-502-4499"
+   },
+   "measurementSystem":"metric",
+   "parcels":[
+      {
+         "quantity":1,
+         "weight":1,
+         "length":5,
+         "width":5,
+         "height":5
+      }
+   ]
+}
